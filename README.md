@@ -1,0 +1,1 @@
+Studynotion is	a fully functional ed-tech platform that is designed to provide an immersive	to students and a platform for instructors to showcase their expertise. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
